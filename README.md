@@ -43,8 +43,6 @@ Optionally, store the scraped data in a file or database (to ease sharing the da
 
 ### Step 1: Visit the Website
 
-### Step 1: Visit the Website
-
 Use automated browsing to visit the [Mars Temperature Data Site](https://data-class-mars-challenge.s3.amazonaws.com/Mars/index.html). Inspect the page to identify which elements to scrape. Note that the URL is `https://data-class-mars-challenge.s3.amazonaws.com/Mars/index.html`.
       
 ![web_scrape1](https://user-images.githubusercontent.com/113717031/210474736-d2fa90d0-48b0-420c-a881-e133cd30bf54.png)
